@@ -1,8 +1,3 @@
-a= int(input())
-b=int(input())
-print('результат множення=',a+b )
-print('рузультат віднімання=',a-b)
-print('peзнльтат множення=',a*b)
-print('результат ділення=',a/b)
-print('результат піднесення до степеня=',a**b)
-
+name=input()
+surname=input()
+print('hello,', surname,name)

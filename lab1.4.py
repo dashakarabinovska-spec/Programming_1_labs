@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print(a//60,'',a%60)
+print(b//60,'',b%60)
+print(c//60,'',c%60)
